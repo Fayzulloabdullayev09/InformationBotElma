@@ -1,6 +1,23 @@
+# Visual Studio
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
-.xml
+
+# Rider / IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# user files
+*.user
+*.suo
+
+# logs
+*.log
+
+# build
+*.dll
+*.exe
+
+# optional (agar xohlasangiz)
+*.xml
